@@ -1,0 +1,1 @@
+{"1001": {"name": "shahed", "balance": 1885, "history": ["deposit:+1000 SAR", "withdraw: -10 SAR", "transfer to1002:-100 SAR"]}, "1002": {"name": "sara", "balance": 200, "history": ["transfer to 1001: +100 SAR"]}}
